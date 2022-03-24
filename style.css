@@ -37,6 +37,10 @@ main {
 	border-radius: 0.5rem;
 }
 
+section {
+	margin-inline: 0.2em;
+}
+
 section > * {
 	text-align: center;
 }
