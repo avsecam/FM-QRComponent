@@ -29,7 +29,7 @@ main {
 	background-color: var(--white);
 	padding: 1rem;
 	border-radius: 1rem;
-	box-shadow: 0 1.5rem 2rem -1.5rem var(--gray300);
+	box-shadow: 0 1.5rem 2rem -1.85rem var(--gray300);
 }
 
 .qrDiv > img {
